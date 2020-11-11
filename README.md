@@ -8,7 +8,7 @@ Search for books using an api, add those books to a database of books you want t
 [Installation](#Installation) || [Usage](#Usage) || [License](#License) || [Contributing](#Contributing) || [Tests](#Tests) || [Questions](#Questions)
 
 ### Installation:
-Application is hosted on heroku at https://lit-savannah-78060.herokuapp.com/
+Application is hosted on heroku at http://shelf-indulgence-bc.herokuapp.com/
 
 
 ### Usage:
